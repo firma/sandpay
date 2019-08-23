@@ -1,6 +1,7 @@
 # sandpay
 杉德支付 网银支付&amp;代下单服务
-1.银联提供的pfx证书在golang中解析会失败 需要转为pem证书解析
+
+提供的pfx证书在golang中解析会失败 需要转为pem证书解析
   pfx转pem方法,需要安装openssl
   
 解析pem证书的公钥和私钥
