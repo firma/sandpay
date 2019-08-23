@@ -1,0 +1,7 @@
+.idea
+.vscode
+.env
+test.go
+pkg/*
+config
+~/
